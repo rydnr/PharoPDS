@@ -114,12 +114,12 @@ BaselineOfProbabilisticDataStructures >> specPackages: spec [
 
 { #category : #'as yet unclassified' }
 BaselineOfProbabilisticDataStructures >> specProjects: spec [
-	"spec
+	spec
 		baseline: 'Roassal2'
 		with: [ spec repository: 'github://ObjectProfile/Roassal2:master/src' ].
 	spec
 		baseline: 'GToolkit'
-		with: [ spec repository: 'github://feenkcom/gtoolkit:master/src' ]."
+		with: [ spec repository: 'github://feenkcom/gtoolkit:master/src' ].
 	spec
 		baseline: 'NonCryptographicHashes'
 		with:
