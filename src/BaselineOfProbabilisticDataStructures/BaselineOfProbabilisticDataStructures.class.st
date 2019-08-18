@@ -116,10 +116,10 @@ BaselineOfProbabilisticDataStructures >> specPackages: spec [
 BaselineOfProbabilisticDataStructures >> specProjects: spec [
 	spec
 		baseline: 'Roassal2'
-		with: [ spec repository: 'github://ObjectProfile/Roassal2:1df4118/src' ].
+		with: [ spec repository: 'github://ObjectProfile/Roassal2:master/src' ].
 	spec
 		baseline: 'GToolkit'
-		with: [ spec repository: 'github://feenkcom/gtoolkit:v0.6.46/src' ].
+		with: [ spec repository: 'github://feenkcom/gtoolkit:master/src' ].
 	spec
 		baseline: 'NonCryptographicHashes'
 		with:
